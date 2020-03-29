@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc234d58-8b4c-4a3b-aa71-9a08879dce48" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="JavaFXApplication" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZiPgUcvX7lg464E4JFEVa7VE49" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="/opt/SceneBuilder/SceneBuilder" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.19888888" />
+    <property name="project.structure.side.proportion" value="0.22733077" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="RunManager">
+    <configuration name="AppInitializer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AppInitializer" />
+      <module name="Calculator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppInitializer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc234d58-8b4c-4a3b-aa71-9a08879dce48" name="Default Changelist" comment="" />
+      <created>1585319052663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585319052663</updated>
+      <workItem from="1585319056922" duration="2948000" />
+      <workItem from="1585325407529" duration="6994000" />
+      <workItem from="1585400426151" duration="8815000" />
+      <workItem from="1585422056836" duration="302000" />
+      <workItem from="1585422710694" duration="2309000" />
+      <workItem from="1585488096777" duration="7816000" />
+      <workItem from="1585503075974" duration="2299000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="428" y="272" width="499" height="260" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585502962157">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="428" y="272" width="499" height="260" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.34.1366.734@0.34.1366.734" timestamp="1585502962157" />
+    <state x="462" y="144" key="FileChooserDialogImpl" timestamp="1585504070534">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="462" y="144" key="FileChooserDialogImpl/0.34.1366.734@0.34.1366.734" timestamp="1585504070534" />
+    <state width="1318" height="255" key="GridCell.Tab.0.bottom" timestamp="1585503053291">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state width="1318" height="255" key="GridCell.Tab.0.bottom/0.34.1366.734@0.34.1366.734" timestamp="1585503053291" />
+    <state width="1318" height="255" key="GridCell.Tab.0.center" timestamp="1585503053290">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state width="1318" height="255" key="GridCell.Tab.0.center/0.34.1366.734@0.34.1366.734" timestamp="1585503053290" />
+    <state width="1318" height="255" key="GridCell.Tab.0.left" timestamp="1585503053290">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state width="1318" height="255" key="GridCell.Tab.0.left/0.34.1366.734@0.34.1366.734" timestamp="1585503053290" />
+    <state width="1318" height="255" key="GridCell.Tab.0.right" timestamp="1585503053291">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state width="1318" height="255" key="GridCell.Tab.0.right/0.34.1366.734@0.34.1366.734" timestamp="1585503053291" />
+    <state x="177" y="36" width="1052" height="732" key="SettingsEditor" timestamp="1585504024962">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="177" y="36" width="1052" height="732" key="SettingsEditor/0.34.1366.734@0.34.1366.734" timestamp="1585504024962" />
+    <state x="463" y="267" width="439" height="269" key="XPathView.InputDialog.DIMENSION_SERVICE_KEY.SIMPLE" timestamp="1585502826771">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="463" y="267" width="439" height="269" key="XPathView.InputDialog.DIMENSION_SERVICE_KEY.SIMPLE/0.34.1366.734@0.34.1366.734" timestamp="1585502826771" />
+    <state x="100" y="134" width="1166" height="534" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1585502995936">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="100" y="134" width="1166" height="534" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.34.1366.734@0.34.1366.734" timestamp="1585502995936" />
+    <state x="241" y="174" width="933" height="504" key="dock-window-1" timestamp="1585502885233">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="241" y="174" width="933" height="504" key="dock-window-1/0.34.1366.734@0.34.1366.734" timestamp="1585502885233" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1585424251337">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.34.1366.734@0.34.1366.734" timestamp="1585424251337" />
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
+</project>
